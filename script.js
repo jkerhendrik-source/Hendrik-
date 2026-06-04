@@ -27,7 +27,7 @@ submitName.addEventListener('click', () => {
   const apologyTitle = apologyCard.querySelector('h1');
   apologyTitle.textContent = `${nickname}, maafinnn kakanaaa yaaaa🥺💖`;
 
-  apologyText.innerHTML = `kakanaa tidaa mauu adeenaa cedii teruss uuu<br>Maafinn kakaa, yaww??😅`;
+  apologyText.innerHTML = `kakanaaa benerannn mintaaa maaff sayanggg..<br>Maafinn kakaa, yaww??😅`;
 });
 
 noBtn.addEventListener('click', () => {
